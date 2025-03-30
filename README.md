@@ -22,6 +22,7 @@
 
 ## Integrations
 
+- [obsidian-limitless-lifelogs](https://github.com/Maclean-D/obsidian-limitless-lifelogs) - Obsidian plugin to Sync your Limitless lifelog entries
 - [Obsidian-Limitless](https://github.com/skryl/obsidian-limitless) - Obsidian plugin to sync all of your Pendant transcripts to Obsidian.
 - [Raycast Extension](https://github.com/raycast/extensions/pull/17939) - Raycast extension for Limitless AI (pending approval).
 
