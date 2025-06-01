@@ -36,6 +36,8 @@
 - [Go-Limitless](https://github.com/kmesiab/go-limitless) - Something fresh to stick a fork into if you're writing in Go.
 - [Limitless MCP Server](https://gist.github.com/kmesiab/b6614b3a10fe4118e5a3d015127fed6f) - Small server integrating with the Go client to provide Model Context Protocol Server for interacting with your data via a foundation model directly.
 - [limitless-mcp-server](https://github.com/manueltarouca/limitless-mcp-server) - MCP server/client implementation for the Limitless API, to connect to Claude for example.
+- [limitless_bettermcp](https://github.com/199-biotechnologies/limitless-bettermcp) - Advanced Limitless MCP Server 
+
 
 ## Learning Resources
 
