@@ -30,7 +30,7 @@
 
 - [Context Server](https://github.com/Maclean-D/context-server) - Server converting Limitless AI lifelogs into indexed markdown, searchable via REST API and web UI (designed for RAG).
 - [limitless-actions](https://github.com/pricebaldwin/limitless-actions) - Node/TypeScript ingestion tool that pulls new items from the Limitless API and stores them in a local database. Intended for secondary processing of LifeLog entries to trigger actions via other APIs.
-- [limitless-downloader](https://github.com/jwjordan/limitless-downloader.git - download limitless logs as json
+- [limitless-downloader](https://github.com/jwjordan/limitless-downloader.git) - download limitless logs as json
 
 ## SDKs & Libraries
 
