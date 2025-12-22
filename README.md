@@ -17,6 +17,7 @@
 ## Applications
 
 ## CLI Tools
+[limitless_tools](https://github.com/ScottSucksAtProgramming/limitless_tools) - Python CLI to sync Limitless lifelogs locally and export Markdown/CSV.
 
 ## Data Visualization
 
